@@ -35,6 +35,8 @@ body {
   height: 60px;
 }
 
-.red {
-  background-color: red;
+.selected {
+  background-image: url("../images/taupe.jpg");
+  background-size: cover;
+  cursor: url("../images/cursor1.cur"), auto;
 }/*# sourceMappingURL=style.css.map */
